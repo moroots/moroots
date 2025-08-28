@@ -1,4 +1,7 @@
-## Hi there 👋
+<!-- Hello -->
+## Hi, I'm Maurice👋
+
+Scientific Software Engineer sharing my journey and learning in science driven development <br/>
 
 <!--
 **moroots/moroots** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
