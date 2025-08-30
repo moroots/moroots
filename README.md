@@ -1,7 +1,14 @@
 <!-- Hello -->
-## Hi, I'm Maurice👋
+Howdy👋 <br/>
 
-Scientific Software Engineer sharing my journey and learning in science driven development <br/>
+My name is Maurice! I'm an Atmospheric Physicists working on solving data problems in Atmospheric Science wiht Python! <br/>
+
+🔭 I'm focuesed on developing a python package for downloading, discovering, and analysis in Atmospheric Science Data <br/>
+🌱 I’m currently learning Backend Software, Data Engineering, and Machine Learning <br/>
+👯 We should collaborate on research and software <br/>
+🤔 I’m looking for help with Youtube and Software Development <br/>
+
+📫 How to reach me: mrmoroots@gmail.com <br/>
 
 <!--
 **moroots/moroots** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
