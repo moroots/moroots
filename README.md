@@ -1,7 +1,7 @@
 <!-- Hello -->
 Howdy👋 <br/>
 
-My name is Maurice! I'm an Atmospheric Physicists working on solving data problems in Atmospheric Science wiht Python! <br/>
+My name is Maurice! I'm an Atmospheric Physicists working on solving data problems in Atmospheric Science with Python! <br/>
 
 🔭 I'm focuesed on developing a python package for downloading, discovering, and analysis in Atmospheric Science Data <br/>
 🌱 I’m currently advancing in Backend Software, Data Engineering, and Machine Learning <br/>
