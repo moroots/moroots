@@ -4,27 +4,69 @@
 ```⚙️ Research Technologist``` <br>
 ```👨🏾‍💻 Software Developer``` <br>
 
-<div align="center">
+I’m an atmospheric physicist specializing in air quality and boundary-layer science, with a focus on atmospheric measurements, data analysis, and instrument development. I’m passionate about extracting actionable insights from environmental data and creating tools that help others learn Python and apply it to real scientific problems.
 
-# Maurice Roots
+#### Early-stage projects (help welcome!):
+- ```Atmospheric-Science-Tutorials```: A repository of jupytor notebooks to learn how to use python to analysis in python.
 
-![Builder](https://img.shields.io/badge/Builder-111?style=for-the-badge)
-![Engineer](https://img.shields.io/badge/Engineer-111?style=for-the-badge)
-![Problem Solver](https://img.shields.io/badge/Problem%20Solver-111?style=for-the-badge)
+- ```atmoz``` — A Python package for working with atmospheric measurement data, from ingestion through analysis
 
----
+- ```atmoz_db``` — A lightweight catalog and query tool for organizing datasets
 
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
-![Postgres](https://img.shields.io/badge/Postgres-000?style=for-the-badge&logo=postgresql)
-![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
+This GitHub is where I experiment, share code, and build tools to make atmospheric science more accessible and reproducible.
 
----
 
-![Stats](https://github-readme-stats.vercel.app/api?username=moroots&show_icons=true&theme=tokyonight&hide_border=true)
 
-</div>
+### Domain Expertise
+
+<p align="left"> 
+<a href="https://en.wikipedia.org/wiki/Lidar" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/LiDAR-technology-blue?style=for-the-badge" alt="LiDAR"/> </a>
+ <a href="https://en.wikipedia.org/wiki/Spectroscopy" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Spectroscopy-analytical-purple?style=for-the-badge" alt="Spectroscopy"/> </a>
+ <a href="https://en.wikipedia.org/wiki/Air_quality" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Air%20Quality-monitoring-darkgreen?style=for-the-badge" alt="Air Quality"/> </a>
+ <a href="https://en.wikipedia.org/wiki/Boundary_layer" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Boundary--Layer-Dynamics-lightgrey?style=for-the-badge" alt="Boundary Layer Dynamics"/> </a>
+<a href="https://en.wikipedia.org/wiki/Computer_hardware" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Computer%20Hardware-components-lightgrey?style=for-the-badge" alt="Computer Hardware"/> </a>
+</p>
+
+### Languages & Tools
+
+<p align="left"> 
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+    <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="jupyter" width="40" height="40"/> </a> 
+    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
+    <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> </a> 
+    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
+    <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
+    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
+    <a href="https://www.ready.noaa.gov/HYSPLIT.php" target="_blank" rel="noreferrer"> <img src="./logos/final_logo_rev_close-crop 1.svg" alt="HYSPLIT" width="80" height="40"/> </a> 
+</p>
+
+
+### Databases & DevOps
+
+<p align="left"> 
+    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/> </a> 
+    <a href="https://www.timescale.com/" target="_blank" rel="noreferrer"> <img src="https://assets.easydmarc.com/a7196ad14f/bimi-timescale-com-652a126d.svg" alt="timescaledb" width="40" height="40"/> </a> 
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/> </a> 
+    <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="./logos/docker-mark-blue.svg" alt="docker" width="50" height="40"/> </a> 
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+    <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="nginx" width="40" height="40"/> </a> 
+</p>
+
+### Creation Tools (Web & Embeded)
+
+<p align="left"> 
+    <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
+    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo.svg" alt="bootstrap" width="50" height="40"/> </a> 
+    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
+    <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="fastapi" width="100" height="40"/> </a> 
+    <a href="https://www.raspberrypi.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" alt="Raspberry Pi" width="40" height="40"/> </a> 
+    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
+    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
+    <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> 
+</p>
+
+
+
