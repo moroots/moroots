@@ -15,7 +15,7 @@ This GitHub is where I experiment, share code, and build tools to make atmospher
 
 - [`atmoz`](https://github.com/moroots/atmoz) — A Python package for working with atmospheric measurement data, from ingestion through analysis.
 
-- [`atmoz_db`](https://github.com/<your-username>/atmoz_db) — A lightweight catalog and query tool for organizing datasets.
+- [`atmoz_db`](https://github.com/moroots/atmoz_db) — A lightweight catalog and query tool for organizing datasets.
 
 ---
 
