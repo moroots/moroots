@@ -11,11 +11,11 @@ This GitHub is where I experiment, share code, and build tools to make atmospher
 ---
 
 #### Current Projects (help is welcome!):
-- ```Atmospheric-Science-Tutorials```: A repository of jupytor notebooks to learn how to use python to analysis in python.
+- [`Atmospheric-Science-Tutorials`](https://github.com/moroots/Atmospheric-Science-Tutorials): A repository of Jupyter notebooks to learn data analysis in Python.
 
-- ```atmoz``` — A Python package for working with atmospheric measurement data, from ingestion through analysis
+- [`atmoz`](https://github.com/moroots/atmoz) — A Python package for working with atmospheric measurement data, from ingestion through analysis.
 
-- ```atmoz_db``` — A lightweight catalog and query tool for organizing datasets
+- [`atmoz_db`](https://github.com/<your-username>/atmoz_db) — A lightweight catalog and query tool for organizing datasets.
 
 ---
 
